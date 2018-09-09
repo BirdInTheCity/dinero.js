@@ -72,7 +72,9 @@
   },
   "files": [
     "build",
-    "src"
+    "src",
+    "tasks",
+    "build"
   ],
   "license": "MIT"
 }
